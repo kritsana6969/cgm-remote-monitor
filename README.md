@@ -54,9 +54,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
+<!-- DON'T EDIT THIS SECTION, 
 - [Install](#install)
   - [Supported configurations:](#supported-configurations)
   - [Recommended minimum browser versions for using Nightscout:](#recommended-minimum-browser-versions-for-using-nightscout)
